@@ -71,7 +71,7 @@ const renderItem = (
   return (
     <View
       key={index}
-      activeOpacity={0.5}
+      activeOpacity={0.6}
       style={{
         flexDirection: 'row',
         flex: 1,
