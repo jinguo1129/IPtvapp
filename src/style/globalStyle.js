@@ -15,7 +15,7 @@ export default StyleSheet.create({
   },
   headerContainer: {
     borderBottomWidth: 0,
-    width: '100%',
+    width: '50%',
     backgroundColor: colors.headerContainerDark,
   },
   headerTitle: {
