@@ -7,8 +7,8 @@ export default {
     darkBackground : '#1a171b',
     placeholderTextColor : '#C2C2C2',
     tvchannelbackgroundColor: '#363437',
-    activeTabColor : '#62636A',
-    inactiveTabColor : '#26272C',
+    activeTabColor : '#626360',
+    inactiveTabColor : '#262720',
 
 
 
