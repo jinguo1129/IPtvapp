@@ -11,7 +11,7 @@ export default StyleSheet.create({
   },
   containerView: {
     flex: 1,
-    backgroundColor: '#EEE',
+    backgroundColor: '#EEF',
   },
   headerContainer: {
     borderBottomWidth: 0,
@@ -30,7 +30,7 @@ export default StyleSheet.create({
     flexDirection: 'row',
     width: '100%',
     height: 50,
-    backgroundColor:'#EEE',
+    backgroundColor:'#EEF',
   },
 
   tabBarUnderlineStyle: {
