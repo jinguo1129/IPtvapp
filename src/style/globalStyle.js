@@ -7,7 +7,7 @@ export default StyleSheet.create({
 
   viewConinater:{
     flex: 1,
-    backgroundColor:'black'
+    backgroundColor:'#202020'
   },
   containerView: {
     flex: 1,
