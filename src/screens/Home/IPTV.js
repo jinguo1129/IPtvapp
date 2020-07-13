@@ -76,7 +76,7 @@ const renderItem = (
         flexDirection: 'row',
         flex: 1,
         alignItems: 'center',
-        backgroundColor: '#171717',
+        backgroundColor: '#181818',
       }}>
       <View style={{marginHorizontal: 15, borderBottomWidth: 0}}>
         {isEditMode ? (
