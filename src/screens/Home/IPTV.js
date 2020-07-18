@@ -81,11 +81,11 @@ const renderItem = (
       <View style={{marginHorizontal: 15, borderBottomWidth: 0}}>
         {isEditMode ? (
           <TouchableOpacity>
-            <Ionicons name="ios-link" size={18} style={{color: '#FFFFFF'}} />
+            <Ionicons name="ios-link" size={20} style={{color: '#FFFFFF'}} />
           </TouchableOpacity>
         ) : (
           <TouchableOpacity>
-            <Ionicons name="ios-link" size={18} style={{color: '#FFFFFF'}} />
+            <Ionicons name="ios-link" size={20} style={{color: '#FFFFFF'}} />
           </TouchableOpacity>
         )}
       </View>
