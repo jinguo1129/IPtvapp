@@ -95,7 +95,7 @@ const renderItem = (
           flex: 1,
           flexDirection: 'row',
           justifyContent: 'space-between',
-          paddingVertical: 10,
+          paddingVertical: 15,
           borderBottomWidth: 0.3,
           borderBottomColor: '#999',
           alignItems: 'center',
