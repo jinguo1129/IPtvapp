@@ -159,7 +159,7 @@ const IPTV = ({navigation}) => {
       })
       .then((contents) => {
         // log the file contents
-        console.log('epg=', contents);
+        console.log('epg_contents=', contents);
         const result = parser.parse(contents);
         console.log('parseresult1', result);
         if (
