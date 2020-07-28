@@ -181,7 +181,7 @@ const IPTV = ({navigation}) => {
     <Container style={GlobalStyle.viewConinater}>
       <Header hasTabs style={styles.headerContainer}>
         <Left style={{flex: 1}}></Left>
-        <Body style={{flex: 3, alignItems: 'center'}}>
+        <Body style={{flex: 2, alignItems: 'center'}}>
           <Title style={GlobalStyle.headerTitle}></Title>
         </Body>
         <Right style={{flex: 1}}></Right>
