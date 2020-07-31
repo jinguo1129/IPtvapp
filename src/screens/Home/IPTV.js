@@ -201,7 +201,7 @@ const IPTV = ({navigation}) => {
             <Ionicons
               name="md-search"
               size={22}
-              style={{marginLeft: 10, color: '#9C9CA2'}}
+              style={{marginLeft: 20, color: '#9C9CA2'}}
             />
             <Input style={{color: '#FFF'}} placeholder="Search" />
           </Item>
