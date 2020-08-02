@@ -187,7 +187,7 @@ const IPTV = ({navigation}) => {
         <Right style={{flex: 1}}></Right>
       </Header>
       <Content>
-        <View style={{marginHorizontal: 15, marginBottom: 15}}>
+        <View style={{marginHorizontal: 16, marginBottom: 15}}>
           <Text style={{color: '#FFF', fontSize: 30, fontWeight: 'bold'}}>
             IPTV
           </Text>
