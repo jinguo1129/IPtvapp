@@ -188,7 +188,7 @@ const IPTV = ({navigation}) => {
       </Header>
       <Content>
         <View style={{marginHorizontal: 16, marginBottom: 15}}>
-          <Text style={{color: '#FFF', fontSize: 30, fontWeight: 'bold'}}>
+          <Text style={{color: '#FFF', fontSize: 28, fontWeight: 'bold'}}>
             IPTV
           </Text>
           <Item
