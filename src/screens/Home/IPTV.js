@@ -194,7 +194,7 @@ const IPTV = ({navigation}) => {
           <Item
             style={{
               backgroundColor: '#222',
-              borderRadius: 10,
+              borderRadius: 12,
               borderBottomWidth: 0,
               marginTop: 10,
             }}>
