@@ -212,7 +212,7 @@ const IPTV = ({navigation}) => {
               flexDirection: 'row',
               flex: 1,
               alignItems: 'center',
-              paddingVertical: 0,
+              paddingVertical: 10,
               backgroundColor: '#131313',
             }}>
             <View style={{marginHorizontal: 13}}>
