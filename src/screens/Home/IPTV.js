@@ -215,7 +215,7 @@ const IPTV = ({navigation}) => {
               paddingVertical: 10,
               backgroundColor: '#131313',
             }}>
-            <View style={{marginHorizontal: 13}}>
+            <View style={{marginHorizontal: 16}}>
               <MaterialCommunityIcons
                 name="history"
                 size={25}
