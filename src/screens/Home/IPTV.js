@@ -228,9 +228,9 @@ const IPTV = ({navigation}) => {
                 flex: 1,
                 flexDirection: 'row',
                 justifyContent: 'space-between',
-                borderBottomWidth: 0.3,
+                borderBottomWidth: 0.5,
                 borderBottomColor: '#99999988',
-                paddingVertical: 10,
+                paddingVertical: 12,
                 alignItems: 'center',
               }}>
               <Text style={{color: '#FFF', fontSize: 20}}>Most Recent</Text>
@@ -238,7 +238,7 @@ const IPTV = ({navigation}) => {
               <Ionicons
                 name="ios-arrow-forward"
                 size={18}
-                style={{marginLeft: 10, marginRight: 10, color: '#a9a9a9'}}
+                style={{marginLeft: 12, marginRight: 12, color: '#a9a9a9'}}
               />
             </TouchableOpacity>
           </View>
