@@ -212,7 +212,7 @@ const IPTV = ({navigation}) => {
               flexDirection: 'row',
               flex: 1,
               alignItems: 'center',
-              paddingVertical: 10,
+              paddingVertical: 12,
               backgroundColor: '#131313',
             }}>
             <View style={{marginHorizontal: 16}}>
@@ -248,12 +248,12 @@ const IPTV = ({navigation}) => {
               flexDirection: 'row',
               flex: 1,
               alignItems: 'center',
-              backgroundColor: '#131313',
+              backgroundColor: '#232323',
             }}>
-            <View style={{marginHorizontal: 15}}>
+            <View style={{marginHorizontal: 16}}>
               <Ionicons
                 name="ios-star-outline"
-                size={25}
+                size={26}
                 style={{color: '#FFFFFF'}}
               />
             </View>
