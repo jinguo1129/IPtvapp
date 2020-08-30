@@ -363,12 +363,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#EEE',
   },
   headerContainer: {
-    backgroundColor: '#000',
-    borderBottomWidth: 0,
+    backgroundColor: '#FFF',
+    borderBottomWidth: 10,
     width: '100%',
   },
   headerTitle: {
-    color: '#FF0000',
+    color: '#FFFF00',
   },
   headerIcons: {
     color: '#000000',
