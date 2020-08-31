@@ -381,9 +381,9 @@ const styles = StyleSheet.create({
     marginTop: 16,
   },
   imageIcon: {
-    marginVertical: 10,
-    marginRight: 20,
-    width: 80,
-    height: 50,
+    marginVertical: 16,
+    marginRight: 24,
+    width: 70,
+    height: 60,
   },
 });
