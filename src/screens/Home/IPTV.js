@@ -314,6 +314,7 @@ const IPTV = ({navigation}) => {
                   navigation,
                   channelList,
                   programmeList,
+				  audioList,
                 )
               }
               renderHiddenItem={(item, index) => (
@@ -345,7 +346,7 @@ const IPTV = ({navigation}) => {
                     }}></View>
                 </View>
               )}
-              leftOpenValue={40}
+              leftOpenValue={50}
             />
           )}
         </ScrollView>
